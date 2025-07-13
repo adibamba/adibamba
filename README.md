@@ -1,92 +1,98 @@
-# 👋 Hi, I'm Abdoulie .A. Jallow
- 
-🎯 **Cloud Engineer|Microsoft365/Azure Specialist** | 🌍 Rome, Italy  
-🔐 Architecting secure, high-performance cloud solutions  
-📘 MSc Student – Mathematical Engineering (Scientific Computing & Applications)
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdoulie+.+A.+Jallow;Cloud+Engineer+%7C+M365%2FAzure+Specialist;Welcome+to+my+cyber-realm+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
+<p align="center">
+  <b>🔐 Architecting secure, high-performance cloud systems</b><br>
+  📍 Rome, Italy | 🎓 MSc in Mathematical Engineering (Scientific Computing & Applications)
+</p>
 
 ---
 
-## 🚀 About Me
+## ⚡ About Me
 
-As a Microsoft Certified Professional with 5+ years of experience in enterprise IT environments, I specialize in architecting secure, high-performance cloud solutions that drive business innovation. My expertise spans the full Microsoft stack, and I thrive on transforming complex technical challenges into scalable, business-enabling solutions.
+I'm a Microsoft Certified Cloud Engineer with over 5 years of experience in building secure and scalable cloud infrastructures using Azure and Microsoft365. I’m passionate about automation, scientific computing, and blending cloud engineering with advanced data analytics.  
 
-Currently, I’m pursuing a Master’s degree in Mathematical Engineering – Scientific Computing and Applications, deepening my knowledge in advanced computational methods, data modeling, and algorithm optimization.
-
----
-
-## 💡 Interests & Focus Areas
-
-- ☁️ **Cloud Computing** – Designing resilient, cost-efficient architectures (Azure, AWS)  
-- 📊 **Data Science** – Leveraging analytics & ML for actionable insights  
-- 🔒 **Cybersecurity** – Building enterprise-grade security frameworks
+🧠 Currently expanding my expertise through a Master's in Mathematical Engineering with a focus on HPC, ML, and algorithm optimization.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🎮 Skills Inventory
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,aws,bash,powershell,python,git,githubactions,vscode&theme=dark" />
+</p>
 
 ---
 
 ## 🧠 Certifications
 
-![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-blue?style=flat-square)
-![M365 Security](https://img.shields.io/badge/Microsoft_365-Security_&_Compliance-blue?style=flat-square)
-![Identity Admin](https://img.shields.io/badge/Identity_&_Access-Administrator-blue?style=flat-square)
+- 🧩 **AZ-900** – Azure Fundamentals  
+- 🛡 **Microsoft 365 Security & Compliance**  
+- 🧬 **Identity & Access Administrator**
 
 ---
 
-## 🏆 Highlights
+## 🧩 Interests & Focus Areas
 
-- ✅ 50+ Office 365 and Azure tenants supported  
-- ✅ 15+ Exchange migrations completed successfully  
-- ✅ 35% reduction in provisioning time via automation  
-- ✅ Promoted twice at Wicresoft  
-- ✅ Awarded Best Performance & Employee of the Month
+🎯 **Cloud Engineering** – Multi-tenant Azure and M365 environments  
+📈 **Data Science & ML** – Insightful automation through analytics  
+🛡 **Cybersecurity** – Securing cloud pipelines & identities
+
+---
+
+## 💼 Career Highlights
+
+- 🔧 Supported **50+** Office 365 & Azure Tenants  
+- ✈️ Led **15+** Exchange Migrations  
+- ⚙️ Automated provisioning saving **35%** in time  
+- 🏅 **Best Performance & Employee of the Month**  
+- 🚀 Twice promoted at Wicresoft
 
 ---
 
 ## 🎓 Education
 
-🎓 **MSc in Mathematical Engineering – Scientific Computing and Applications**  
-*Università degli Studi dell’Aquila, Italy* (2024 – Present)  
-> Focus: HPC, ML, algorithm optimization, data modeling, ICT security  
+- 🎓 MSc – **Mathematical Engineering: Scientific Computing & Applications**  
+  *Università degli Studi dell’Aquila, Italy (2024–Present)*
 
-🎓 **BSc in Aeronautical Engineering**  
-*Nanjing University of Aeronautics & Astronautics, China* (2017 – 2021)  
-> Thesis: Forecasting spare parts demand using Python & MATLAB
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=YOUR_GITHUB_USERNAME&theme=rogue)
+- 🎓 BSc – **Aeronautical Engineering**  
+  *Nanjing University of Aeronautics & Astronautics, China (2017–2021)*  
+  Thesis: *Forecasting spare parts demand using Python & MATLAB*
 
 ---
 
-## 🌐 Languages
+## 🌍 Languages
 
-- 🇬🇧 English (Native)
-- 🇨🇳 Chinese (C1)
-- 🇮🇹 Italian (A1)
+🌐 English (Native) | 中文 (C1) | Italiano (A1)
 
 ---
 
-## 🤝 Connect with Me
+## 🔗 Connect & Explore
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abdoulie-a-j-339ba4226)
-[![Email](https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail)](mailto:adi13218005155@outlook.com)
+<p align="center">
+  <a href="https://www.abdoulieajallow.engineer" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-29ABE2?style=for-the-badge&logo=world&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/abdoulie-a-j-339ba4226" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:adi13218005155@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Send-informational?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-> “Technology is best when it brings people together.”
+<blockquote align="center">💬 “Technology is best when it brings people together.”</blockquote>
 
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adibamba&show_icons=true&theme=radical&count_private=true&hide_border=true" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adibamba&theme=radical&hide_border=true" width="400"/>
+</p>
